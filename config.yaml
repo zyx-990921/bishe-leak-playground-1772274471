@@ -1,0 +1,6 @@
+service:
+  secret: "qwerty123"
+  token: "ghp_FAKE1234567890FAKE1234567890"
+  aws:
+    access_key: "AKIAFAKEKEY1234567"
+    secret_key: "fakeSecretKey1234567890"
